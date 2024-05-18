@@ -45,7 +45,7 @@ The templates are available in the following sizes:
 	- `Title`: The title of each schematic doc. Like Power, MCU, etc.
 	- `Revision`: The schematic version.
 
-6. If the designer of the page is different from the designer of other pages, or if you used a previously designed schematic that has another designer, it is necessary to overwrite the designer's name. For this, in the Parameters section of that page, add a variable called `Des' and write the name of the designer in it. Now the name of the designer of this document will be different from other schematics.
+6. If the designer of the page is different from the designer of other pages, or if you used a previously designed schematic that has another designer, it is necessary to overwrite the designer name. For this, in the Parameters section of that page, add a variable called `Des` and write the name of the designer in it. Now the name of the designer of this document will be different from other schematics.
 
 ### Apply to an existing project
 
@@ -67,5 +67,5 @@ The templates are available in the following sizes:
 	- `Title`: The title of each schematic doc. Like Power, MCU, etc.
 	- `Revision`: The schematic version.
 
-6. If the designer of the page is different from the designer of other pages, or if you used a previously designed schematic that has another designer, it is necessary to overwrite the designer's name. For this, in the Parameters section of that page, add a variable called `Des' and write the name of the designer in it. Now the name of the designer of this document will be different from other schematics.
+6. If the designer of the page is different from the designer of other pages, or if you used a previously designed schematic that has another designer, it is necessary to overwrite the designer name. For this, in the Parameters section of that page, add a variable called `Des` and write the name of the designer in it. Now the name of the designer of this document will be different from other schematics.
 
