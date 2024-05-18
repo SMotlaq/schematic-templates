@@ -1,9 +1,9 @@
 # Altium Designer Schematic Templates
 
 <p align="center">
-	<img src="images/example1.png?raw=true" width=430>
+	<img src="images/example1.png?raw=true" width=440>
 	&nbsp;
-	<img src="images/example2.png?raw=true" width=230>
+	<img src="images/example2.png?raw=true" width=210>
 </p>
 
 This repository contains a collection of schematic templates for Altium Designer, available in A2, A3, A4, and A5 sizes, in both landscape and portrait orientations. These templates are designed to help you create professional-looking schematics for your electronic designs.
