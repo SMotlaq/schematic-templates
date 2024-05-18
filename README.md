@@ -21,7 +21,7 @@ The templates are available in the following sizes:
 
 ### Apply to a new project
 
-1. Copy and paste the template files to Altium template path. (Default: `C:\Users\Public\Documents\Altium\AD24\Templates`)
+1. Copy and paste the template files to Altium template path. (Default: `C:\Users\Public\Public Documents\Altium\AD24\Templates`)
 2. In the "New Project" window, you have to define three new parameters:
 	- `Prj`: The full project name
 	- `Des`: Designer Name
@@ -43,7 +43,7 @@ The templates are available in the following sizes:
 
 ### Apply to an existing project
 
-1. Copy and paste the template files to Altium template path. (Default: `C:\Users\Public\Documents\Altium\AD24\Templates`)
+1. Copy and paste the template files to Altium template path. (Default: `C:\Users\Public\Public Documents\Altium\AD24\Templates`)
 2. Go to the "Parameters" tab in the "Project/Project Options" menu.
 3. Define three new parameters:
 	- `Prj`: The full project name
