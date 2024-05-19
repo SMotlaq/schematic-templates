@@ -69,3 +69,11 @@ The templates are available in the following sizes:
 
 6. If the designer of the page is different from the designer of other pages, or if you used a previously designed schematic that has another designer, it is necessary to overwrite the designer name. For this, in the Parameters section of that page, add a variable called `Des` and write the name of the designer in it. Now the name of the designer of this document will be different from other schematics.
 
+## Donate
+Is it helpfull?
+
+<p align="left">
+  <a href="http://smotlaq.ir/LQgQF">
+  <img src="https://raw.githubusercontent.com/SMotlaq/LoRa/master/bmc.png" width="200" alt="Buy me a Coffee"/>
+  </a>
+</p>
